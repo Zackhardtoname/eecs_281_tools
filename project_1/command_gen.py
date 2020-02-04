@@ -57,6 +57,10 @@ for fn in documents:
 
                     print()
             else:
+                # Only compares if it finds a solution when it needs too and vice versa
+                # You have to output 1 if it has found a solution otherwise 0
+                # Remember to delete that line before turning to the AG
+                # No other output (the actual required output) should be there
                 res = str(res)
                 #print(res)
                 should_have_res = not "no" in fn
