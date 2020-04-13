@@ -32,7 +32,7 @@ Please feel free to ask questions in Issues.
 
 ## Contributing
 
-Please feel free to submit pull requests or contact [Zack](zackLight.com) to become a collaborator.
+Please feel free to submit pull requests or contact [Zack](https://zacklight.com/) to become a collaborator.
 
 ## License
 
