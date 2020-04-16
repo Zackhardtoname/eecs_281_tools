@@ -3,6 +3,8 @@ These tools were developed by @neiljohari during W20 for the Drones iteration
 of this project. The scripts should be pretty easy to adapt for future
 iterations of this project.
 
+The test generator was developed by @arya-k. 
+
 ## Regression Testing 
 I made one of these for last project and did it again for this one because I hate submitting something not knowing if I broke everything that previously worked.
 
@@ -45,3 +47,9 @@ PASSED sample-e.txt ON MST
 PASSED sample-e.txt ON FASTTSP (difference of 0.722% was within tolerance)
 FAILED sample-e.txt ON OPTTSP (word counts differ — wrong number of vertices?)
 ```
+
+## Test Generator
+The test-generator.py file was written by @arya-k and can be run with `python3
+test-generator.py`. 
+
+
