@@ -2,6 +2,13 @@
 
 Tools for coding, testing, and benchmarking EECS 281 Projects at the University of Michigan, Ann Arbor.
 
+## Examples
+General tools for all the coding assignmens:
+
+1. https://hanyou.dev/testcase.html: Get which test cases you have exposed automatically
+2. [add_identifier](./general/add_identifier.sh): add the project identifier to all the required files
+3. [templates](./general/templates): some general templates
+
 ## Getting Started
 
 Clone the repository. 
@@ -26,7 +33,7 @@ Depending on which tools you use, you might need:
 
 Please see the README.md files inside the sub-folders.
 
-## Contributing
+## Questions
 
 Please feel free to ask questions in Issues.
 
